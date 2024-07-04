@@ -3,11 +3,11 @@
 </p>
 
 
-
-
-
-
-
+### Active Challenges widget
+---
+[![Active Challenges widget](https://stg-embeddables.devactivity.com/orgs/KanenilPC/d83e41f6-02ed-4530-aed8-c6210bd6d040.svg)](https://staging.devactivity.com/public/?organizationLogin=KanenilPC#nav-achievements)
+---
+<sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=KanenilPC) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
 
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
